@@ -66,11 +66,11 @@ python3 wiener.py vulnerable_to_wiener.pub
 
 #### Example: Successful Attack Screenshot
 
-📌 _Insert screenshot of successful run on `vulnerable_to_wiener.pub` here_
+![image](https://github.com/user-attachments/assets/c1d70ced-a209-4655-b727-05370d73c110)
 
 #### Example: Failed Attack Screenshot
 
-📌 _Insert screenshot of running the script on `vulnerable_to_pollard.pub` and failing_
+![image](https://github.com/user-attachments/assets/0da74667-6f38-4809-acf8-0d2111cba32d)
 
 ---
 
@@ -115,11 +115,11 @@ python3 pollard.py vulnerable_to_pollard.pub
 
 #### Example: Successful Attack Screenshot
 
-📌 _Insert screenshot of successful run on `vulnerable_to_pollard.pub` here_
+![image](https://github.com/user-attachments/assets/0e90e146-f207-4210-a2e6-56e99c2d2d8e)
 
 #### Example: Failed Attack Screenshot
 
-📌 _Insert screenshot of running the script on `vulnerable_to_wiener.pub` and failing_
+![image](https://github.com/user-attachments/assets/6276e499-b388-4655-9b18-a2e762ab2304)
 
 ---
 
